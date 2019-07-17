@@ -18,3 +18,7 @@ creating a new branch is quick AND simple
 hello ,this is hanson
 
 
+<<<<<<< Updated upstream
+=======
+bug solve
+>>>>>>> Stashed changes
